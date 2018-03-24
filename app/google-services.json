@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "706942777899",
+    "firebase_url": "https://polytechappton.firebaseio.com",
+    "project_id": "polytechappton",
+    "storage_bucket": "polytechappton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706942777899:android:2da612ce532d5cfd",
+        "android_client_info": {
+          "package_name": "th.ac.lannapoly.polytechlanna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706942777899-i2gqkb4v3r15mr2ppijunfpuvc9oadl6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.ac.lannapoly.polytechlanna",
+            "certificate_hash": "4fac1a1bd88b76c3a56b2d5ec305a1df9974b4e2"
+          }
+        },
+        {
+          "client_id": "706942777899-d9sfltugt3o7eq500mnjgs5mjpuva8mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIfObnjf0sNNQl_4BMptGyeRu-SfgddQw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706942777899-d9sfltugt3o7eq500mnjgs5mjpuva8mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
